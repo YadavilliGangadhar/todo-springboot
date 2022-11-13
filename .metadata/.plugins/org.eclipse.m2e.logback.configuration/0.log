@@ -1,0 +1,5 @@
+2022-11-13 12:24:36,288 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-13 12:29:39,555 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot:todo-springboot:0.0.1-SNAPSHOT @ C:\Users\ygang\Desktop\Spring\todo-springboot\todo-springboot\pom.xml.
+2022-11-13 12:30:02,999 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /todo-springboot/src/main/java
+2022-11-13 12:30:02,999 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /todo-springboot/src/main/resources
+2022-11-13 12:30:03,015 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /todo-springboot/src/main/resources
